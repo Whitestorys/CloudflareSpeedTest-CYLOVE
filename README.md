@@ -26,3 +26,5 @@
 - 如果遇到使用问题可以自行前往C:\Windows\System32\drivers\etc\hosts恢复
 - 备份位置：C:\Windows\System32\drivers\etc\hosts.bak\hosts
 ---
+# 致谢
+- https://github.com/XIU2/CloudflareSpeedTest
