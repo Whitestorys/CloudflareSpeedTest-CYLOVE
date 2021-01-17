@@ -8,7 +8,7 @@ Set /a n+=1
 If !n!==2 Echo %%i>best_ip.txt
 )
 cd /d "%~dp0"
-set /p cyip=<best_ip.txt
+set /p bestip=<best_ip.txt
 set /p domain=<domain.txt
 echo 当前加速IP：%bestip%
 @echo off
