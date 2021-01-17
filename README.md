@@ -27,4 +27,4 @@
 - 备份位置：C:\Windows\System32\drivers\etc\hosts.bak\hosts
 ---
 # 致谢
-- https://github.com/XIU2/CloudflareSpeedTest
+- 测速部分来自于:https://github.com/XIU2/CloudflareSpeedTest
